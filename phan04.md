@@ -1,4 +1,4 @@
-13. Arm Yourself With Specific Knowledge — Trang bị cho bản thân kiến thức đặc biệt
+# 13. Arm Yourself With Specific Knowledge — Trang bị cho bản thân kiến thức đặc biệt
 Arm yourself with specific knowledge. It can’t be trained but it can be found by pursuing your genuine curiosity.
 Trang bị cho bản thân kiến thức đặc biệt. Nó không thể được huấn luyện, nó chỉ có thể được tìm ra bởi theo đuổi sự tò mò bẩm sinh.
 Transcript
@@ -38,7 +38,7 @@ Arm Yourself With Specific Knowledge
 Do you want to talk a little bit about the skills that you need, in particular specific knowledge, accountability…
 nav.al
 
-14. Specific Knowledge Is Highly Creative or Technical — Kiến thức đặc biệt là sự sáng tạo và kỹ thuật cao
+# 14. Specific Knowledge Is Highly Creative or Technical — Kiến thức đặc biệt là sự sáng tạo và kỹ thuật cao
 Specific knowledge tends to be creative or technical. It’s on the bleeding edge of technology, art and communication.
 Kiến thức đặc biệt có xu hướng sáng tạo hoặc kỹ thuật. Nó là đỉnh cao của công nghệ, nghệ thuật và thông tin.
 Specific knowledge can be taught through apprenticeships
@@ -74,7 +74,7 @@ Specific Knowledge Is Highly Creative or Technical
 To the extent that specific knowledge is taught, it's on the job. It's through apprenticeships. And that's why the best…
 nav.al
 
-15. Learn to Sell, Learn to Build — Học cách bán, học cách xây dựng.
+# 15. Learn to Sell, Learn to Build — Học cách bán, học cách xây dựng.
 Learn to sell. Learn to build. If you can do both, you will be unstoppable.
 Học cách bán. Học cách xây dựng. Nếu bạn có thể làm được cả 2, không ai có thể cản được bạn.
 Learn to sell, learn to build
@@ -110,7 +110,7 @@ Learn to Sell, Learn to Build
 Talking about combining skills, you said that you should "learn to sell, learn to build, if you can do both, you will…
 nav.al
 
-16. Read What You Love Until You Love to Read — Đọc những gì bạn yêu thích cho đến khi bạn yêu thích việc đọc.
+# 16. Read What You Love Until You Love to Read — Đọc những gì bạn yêu thích cho đến khi bạn yêu thích việc đọc.
 You should be able to pick up any book in the library and read it.
 Bạn nên chọn bất kỳ một cuốn sách nào đó tại thư viện và đọc nó.
 Read what you love until you love to read
