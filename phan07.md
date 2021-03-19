@@ -1,4 +1,4 @@
-25. Example: From Laborer to Entrepreneur — Từ người lao động đến doanh nhân.
+# 25. Example: From Laborer to Entrepreneur — Từ người lao động đến doanh nhân.
 Từ kiến ​​thức cụ thể thấp đến cao, trách nhiệm và đòn bẩy
 Naval: Các tweetstorm rất trừu tượng. Nó cố tình có nghĩa là có thể áp dụng rộng rãi cho tất cả các lĩnh vực và ngành học khác nhau, khoảng thời gian và địa điểm. Nhưng đôi khi nó khó hoạt động được mà không có ví dụ cụ thể. Vì vậy, hãy cụ thể một phút.
 Nhìn vào ngành bất động sản. Bạn có thể bắt đầu ở phía dưới, hãy vd bạn là một người lao động chân tay. Bạn vào trong, bạn sửa nhà mọi người. Ai đó ra lệnh cho bạn, “Phá vỡ mảnh đá đó. Cát mảnh gỗ đó. Đặt cái đó ở đằng kia.”
@@ -33,7 +33,7 @@ Example: From Laborer to Entrepreneur
 The tweetstorm is very abstract. It's deliberately meant to be broadly applicable to all kinds of different domains and…
 nav.al
 
-26. Judgment Is the Decisive Skill — Khả năng Phán đoán là kỹ năng quyết định
+# 26. Judgment Is the Decisive Skill — Khả năng Phán đoán là kỹ năng quyết định
 Everything we’ve discussed so far has been setting you up to apply judgment.
 In an age of infinite leverage, judgment becomes the most important skill
 Trong thời đại của đòn bẩy là vô hạn, phán đoán trở thành kỹ năng quan trọng nhất
@@ -80,7 +80,7 @@ Judgment Is the Decisive Skill
 We spoke about specific knowledge, we talked about accountability, we talked about leverage. The last skill that Naval…
 nav.al
 
-27. Set an Aspirational Hourly Rate — Thiết lập mức tiền công mong muốn theo giờ.
+# 27. Set an Aspirational Hourly Rate — Thiết lập mức tiền công mong muốn theo giờ.
 If outsourcing a task will cost less than your hourly rate, outsource it.
 Nếu thuê ngoài một nhiệm vụ sẽ có chi phí thấp hơn mức lương hàng giờ của bạn, hãy thuê ngoài nó.
 Set and enforce an aspirational hourly rate.
@@ -111,7 +111,7 @@ Set an Aspirational Hourly Rate
 We covered the skills you need to get rich. They included specific knowledge, accountability, leverage, judgment and…
 nav.al
 
-28. Work As Hard As You Can — Làm việc chăm chỉ nhất có thể.
+# 28. Work As Hard As You Can — Làm việc chăm chỉ nhất có thể.
 Work as hard as you can. Even though what you work on and who you work with are more important.
 Làm việc chăm chỉ nhất có thể. Mặc dù những gì bạn làm và những người bạn làm cùng là quan trọng hơn.
 Work as hard as you can
