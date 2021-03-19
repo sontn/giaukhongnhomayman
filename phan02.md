@@ -1,4 +1,4 @@
-5. Make Luck Your Destiny — Làm cho số phận của bạn trở nên may mắn.
+# 5. Make Luck Your Destiny — Làm cho số phận của bạn trở nên may mắn.
 Nivi: Tôi nghĩ khá thú vị là ba loại may mắn đầu tiên mà bạn mô tả rất phổ biến đối mọi người. Và loại may mắn cuối cùng đến từ điều đặc biệt của bạn, cách bạn hành động. Nó không phải là thứ xáo rỗng.
 Loại may mắn thứ tư đó là việc bạn kết hợp ưu điểm riêng biệt của bạn với hành động. Tôi nghĩ nó rất thú vị và có thể nó là cơ hội để mọi người nhận ra và tận dụng nó.
 Naval: Tôi nghĩ đây là điểm mấu chốt, nó sẽ trở nên quyết đoán đến mức không còn là may mắn nữa. Như vậy định nghĩa về may mắn sẽ mờ dần và chuyển thành định mệnh. Tôi sẽ mô tả đặc điểm thứ tư này khi bạn xây dựng nhân vật của riêng mình theo một cách nhất định và sau đó nhân vật của bạn trở thành định mệnh của bạn.
@@ -23,7 +23,7 @@ Make Luck Your Destiny
 I think it's pretty interesting that the first three kinds of luck that you described there are very common cliches for…
 nav.al
 
-6. You Won’t Get Rich Renting Out Your Time — Bạn không thể giàu có bằng cách đi làm thuê.
+# 6. You Won’t Get Rich Renting Out Your Time — Bạn không thể giàu có bằng cách đi làm thuê.
 You won’t get rich renting out your time
 Nivi: Tiếp theo, bạn đi vào chi tiết cụ thể hơn về cách bạn thực sự có thể làm giàu và cách bạn không thể làm giàu. Điểm đầu tiên là về cách bạn sẽ không trở nên giàu có: “Bạn sẽ không trở nên giàu có bằng cách đi làm thuê” . Bạn phải sở hữu tài sản, một phần của doanh nghiệp để có được tự do tài chính của bạn.
 Naval: Đây có lẽ là một trong những điểm quan trọng nhất. Mọi người dường như nghĩ rằng mình có thể tạo ra sự giàu có và kiếm tiền thông qua công việc làm thuê. Và nó có lẽ nó sẽ không đem lại hiệu quả. Có nhiều lý do cho điều đó.
@@ -55,7 +55,7 @@ You Won't Get Rich Renting Out Your Time
 Next you go into more specific details on how you can actually get rich, and how you can't get rich. The first point…
 nav.al
 
-7. Live Below Your Means for Freedom — Hài lòng với gì bạn có là tự do.
+# 7. Live Below Your Means for Freedom — Hài lòng với gì bạn có là tự do.
 People living below their means have freedom
 Nivi: Còn điều gì ngoài việc đi làm thuê mà chúng ta nên tránh?
 Naval: Yeah, Có 2 tweets mà tôi đưa ra có liên quan tới nhau. Đầu tiên tôi muốn nói về việc nâng cấp lối sống của bạn,bạn không nên nâng cấp quá nhanh. Và điều đó cơ bản như đã nói, những người sống dưới mức của họ sẽ được hưởng một sự tự do mà những người bận rộn nâng cấp lối sống của họ không thể có.
@@ -76,7 +76,7 @@ Live Below Your Means for Freedom
 Any other big things you should avoid, other than renting out your time? Yeah, there are two tweets that I put out that…
 nav.al
 
-8. Give Society What It Doesn’t Know How to Get — Mang lại cho xã hội thứ nó không biết làm sao để có được.
+# 8. Give Society What It Doesn’t Know How to Get — Mang lại cho xã hội thứ nó không biết làm sao để có được.
 Give society what it wants, but doesn’t know how to get — at scale
 Mang lại cho xã hội thứ nó không biết làm sao để có được — ở mức quy mô.
 Nivil: Không thể giàu bằng cách đi làm thuê. Nhưng bạn nói rằng “Bạn sẽ giàu bằng cách đem lại cho xã hội thứ nó muốn, thứ xã hội chưa biết cách làm sao có được ở mức độ quy mô”
