@@ -1,4 +1,4 @@
-22. Labor and Capital Are Old Leverage — Nhân công và vốn là những đòn bẩy cũ.
+# 22. Labor and Capital Are Old Leverage — Nhân công và vốn là những đòn bẩy cũ.
 Wealth requires leverage. Labor and capital are older forms of leverage that everyone is fighting over.
 Sự giàu có cần đòn bẩy. Lao động và vốn là những form mẫu cũ của đòn bẩy mà người ta tranh giành nó.
 Nivil: Tại sao chúng ta không nói một chút về đòn bẩy nhỉ?
@@ -36,7 +36,7 @@ Labor and Capital Are Old Leverage
 Why don't we talk a little bit about leverage? The first tweet in the storm was a famous quote from Archimedes, which…
 nav.al
 
-22. Product and Media are New Leverage — Sản phẩm và truyền thông là hình thức đòn bẩy mới.
+# 22. Product and Media are New Leverage — Sản phẩm và truyền thông là hình thức đòn bẩy mới.
 Product and media are the leverage of new wealth. Create software and media that work for you while you sleep.
 Sản phẩm và phương tiện truyền thông là đòn bẩy của sự giàu có mới. Tạo phần mềm và phương tiện làm việc cho bạn trong khi bạn ngủ.
 Naval: Hình thức đòn bẩy thú vị nhất và quan trọng nhất là ý tưởng về các sản phẩm không có chi phí nhân rộng. Đây là hình thức đòn bẩy mới.
@@ -77,7 +77,7 @@ Product and Media are New Leverage
 The most interesting and the most important form of leverage is this idea of products that have no marginal cost of…
 nav.al
 
-23. Product Leverage is Egalitarian — Đòn bẩy sản phẩm là bình đẳng.
+# 23. Product Leverage is Egalitarian — Đòn bẩy sản phẩm là bình đẳng.
 Labor and capital are limited to the people who control those resources. But products reach global markets.
 Lao động và vốn chỉ giới hạn ở những người kiểm soát các tài nguồn nguyên đó. Nhưng sản phẩm tiếp cận thị trường toàn cầu.
 Naval: Lao động và vốn ít bình đẳng hơn nhiều, không chỉ ở đầu vào, mà cả đầu ra của họ.
@@ -112,7 +112,7 @@ Product Leverage is Egalitarian
 Labor and capital are much less egalitarian, not just in the inputs, but in their outputs. Let's say that I need…
 nav.al
 
-24. Pick a Business Model With Leverage — Lựa chọn mô hình kinh doanh với đòn bẩy.
+# 24. Pick a Business Model With Leverage — Lựa chọn mô hình kinh doanh với đòn bẩy.
 An ideal business model has network effects, low marginal costs and scale economies
 Một mô hình kinh doanh lý tưởng có hiệu ứng mạng, chi phí cận biên thấp và quy mô kinh tế.
 Nivi: Thêm một câu hỏi về đòn bẩy. Bạn có nghĩ rằng một sự lựa chọn của mô hình kinh doanh hoặc một sự lựa chọn của sản phẩm cũng có thể mang lại một loại đòn bẩy cho nó?
