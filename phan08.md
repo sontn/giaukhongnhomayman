@@ -1,4 +1,4 @@
-29. Be Too Busy to ‘Do Coffee’ — Quá bận để uống cà phê.
+# 29. Be Too Busy to ‘Do Coffee’ — Quá bận để uống cà phê.
 Ruthlessly decline meetings. — Từ chối các cuộc họp cách dứt khoát.
 Be too busy to ‘do coffee,’ while keeping an uncluttered calendar
 Quá bận để uống cafe trong khi vẫn giữ cho mình một lịch trình rõ ràng.
@@ -25,7 +25,7 @@ Be Too Busy to 'Do Coffee'
 Another tweet was: "You should be too busy to 'do coffee,' while still keeping an uncluttered calendar." People who…
 nav.al
 
-30. Keep Redefining What You Do — Tiếp tục xác định lại những gì bạn làm.
+# 30. Keep Redefining What You Do — Tiếp tục xác định lại những gì bạn làm.
 Become the best in the world at what you do. Keep redefining what you do until this is true. — Trở thành tốt nhất trong lĩnh vực bạn làm. Tiếp tục xác định lại cho đến khi nó trở thành điều đúng đắn.
 Redefine what you do until you’re the best at what you do — Xác định lại việc bạn làm cho đến khi bạn trở thành tốt nhất trong lĩnh vực đó.
 Nivi: Chúng ta đã nói về tầm quan trọng của làm việc chăm chỉ và định giá thời gian của bạn. Tiếp theo, có một vài tweet về chủ đề làm việc trong dài hạn: “Trở thành người giỏi nhất thế giới trong lĩnh vực bạn làm. Tiếp tục xác định lại những gì bạn làm cho đến khi nó trở thành đúng.”
@@ -43,7 +43,7 @@ Keep Redefining What You Do
 We talked about the importance of working hard and valuing your time. Next, there are a few tweets on the topic of…
 nav.al
 
-31. Escape Competition Through Authenticity — Thoát khỏi sự cạnh tranh thông qua sự xác thực.
+# 31. Escape Competition Through Authenticity — Thoát khỏi sự cạnh tranh thông qua sự xác thực.
 Nobody can compete with you on being you. — Không ai có thể cạnh tranh với bạn khi bạn là bạn.
 Competition will trap you in a lesser game — Cạnh tranh sẽ bẫy bạn trong trò chơi ít hơn.
 Nivi: Hãy thảo luận về tweet: “Thoát khỏi cạnh tranh thông qua tính xác thực”. Nghe có vẻ như là một phần của việc tìm ra bạn là ai.
@@ -76,7 +76,7 @@ Escape Competition Through Authenticity
 Let's discuss your tweet: "Escape competition through authenticity." It sounds like part of this is a search for who…
 nav.al
 
-32. Play Stupid Games, Win Stupid Prizes — Chơi trò chơi ngu ngốc, nhận phần thưởng ngu ngốc.
+# 32. Play Stupid Games, Win Stupid Prizes — Chơi trò chơi ngu ngốc, nhận phần thưởng ngu ngốc.
 Businesses that seem like they’re in direct competition really aren’t — Kinh doanh có vẻ như là họ đang cạnh tranh trực tiếp nhưng không phải vậy.
 Nivi: Khi bạn là người xác thực, bạn sẽ không bận tâm với việc cạnh tranh. Nó sẽ làm bạn bực mình và truyền cảm hứng cho nỗi sợ hãi, ghen tị và những cảm xúc khác. Nhưng bạn không thực sự bận tâm vì bạn đã hướng tới mục tiêu và nhiệm vụ. Và thường có nhiều cách để làm việc với đối thủ theo cách tích cực, và tăng quy mô thị trường cho bạn.
 Naval: Nó phụ thuộc vào bản chất của doanh nghiệp. Các doanh nghiệp công nghệ tốt nhất ở Thung lũng Silicon có xu hướng trở thành người chiến thắng. Khi bạn nhìn thấy sự cạnh tranh, nó có thể khiến bạn bay vào một cơn thịnh nộ. Bởi vì nó thực sự gây nguy hiểm cho mọi thứ bạn đã xây dựng.
