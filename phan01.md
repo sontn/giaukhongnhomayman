@@ -1,4 +1,4 @@
-1. Seek Wealth, Not Money or Status — Tìm kiếm sự giàu có, không phải tiền bạc, hay địa vị.
+# 1. Seek Wealth, Not Money or Status — Tìm kiếm sự giàu có, không phải tiền bạc, hay địa vị.
 Naval là một nhà đầu tư công nghệ và là nhà sáng lập AngelList
 Nivi: Các bạn có thể biết Naval tại tài khoản Twitter sau https://twitter.com/naval
 Chúng ta sẽ nói về chủ đề “Làm sao để giàu mà không cần may mắn”. Chúng ta sẽ đi sau vào chi tiết, và Naval sẽ giải thích và mở rộng topic cho các bạn. Và anh ấy sẽ có nhiều ý tưởng mà anh ấy không publish trước đây.
@@ -6,22 +6,22 @@ Naval là nhà sáng lập AngelList và Epinions. Anh ấy cũng là nhà đầ
 Và tôi là Nivi, cũng là đồng sáng lập AngelList cùng Naval.
 Naval: Rất nhiều người nói rằng các Tweet của tôi về chủ đề này rất hữu ích, nhiều người bên ngoài lĩnh vực công nghệ, họ rất muốn biết làm thế nào để giải quyết các vấn đề liên quan tới tiền bạc. Mọi người mơ hồ muốn biết làm sao để giàu có, nhưng họ không có những nguyên tắc để làm điều đó.
 Nivi: Sự khác biệt giữa giàu có, tiền bạc, và địa vị?
-Wealth is assets that earn while you sleep
+**Wealth is assets that earn while you sleep**
 Naval: Sự giàu có là điều bạn muốn. Sự giàu có là tài sản mà giúp bạn kiếm được lợi nhuận ngay cả khi bạn ngủ. Giàu có là nhà máy, robots…làm thay đổi mọi thứ. Sự giàu có là chương trình máy tính chạy trong đêm phục vụ khách hàng. Sự giàu có thậm chí là tiền trong ngân hàng thứ giúp bạn tái đầu tư vào các tài sản và các loại hình kinh doanh khác nhau.
 Thậm chí ngôi nhà cũng là loại hình của sự giàu có, khi bạn cho thuê, mặc dù khả năng mang lại năng suất thấp hơn là điều hành một doanh nghiệp thương mại.
 Vậy, định nghĩa của tôi về sự giàu có là các loại hình kinh doanh hay các tài sản giúp bạn kiếm tiền ngay cả khi bạn ngủ.
-Wealth buys your freedom
+**Wealth buys your freedom**
 Giàu có đem lại cho bạn sự tự do.
 Lý do bạn muốn giàu vì nó mang lại cho bạn sự tự do. Như vậy, bạn không cần phải đeo cà vạt quanh cổ, bạn không cần phải dậy lúc 7:00am, và chạy theo công việc, tham gia giao thông một cách vội vã. Bạn không cần lãng phí toàn bộ cuộc sống của mình để biến những giờ làm việc hiệu quả của bạn thành một công việc vô hồn mà không làm bạn hài lòng.
 Như vậy mục đích của giàu có là sự tự do. Không gì ngoài điều đó. Đó không phải là mua một chiếc áo dạ bóng bẩy, hay lái chiếc Ferraris, du thuyền hay chuyên cơ riêng vòng quanh thế giới. Những thứ đó thực sự nhàm chán, ngu ngốc và nhanh qua.
 Bạn sẽ không bao giờ đạt được trừ khi bạn thực sự muốn điều đó. Cả thế giới này muốn và cả thế giới này làm việc cật lực vì nó.
 Ở một mức độ nào đó, nó là cạnh tranh. Nó có một trò chơi có tổng là tích cực, nhưng có những yếu tố cạnh tranh trong đó. Bởi vì nguồn tài nguyên là hữu hạn. Để có được nguồn lực giúp bạn thực hiện điều bạn muốn, bạn phải nổi bật.
-Money is how we transfer wealth
+**Money is how we transfer wealth**
 Tiền là cách chúng ta chuyển giao sự giàu có. Nó là tín dụng xã hội. Nó là khả năng có được tín dụng, vay nợ từ thời gian của người khác.
 Nếu tôi làm tốt công việc, và nếu tôi tạo ra giá trị cho xã hôi, xã hội sẽ nói với tôi: “Oh, cảm ơn bạn. Chúng tôi nợ bạn điều gì đó trong tương lai vì công việc bạn đã thực hiện trong quá khứ. Và đây là một chút IOU (tôi nợ bạn). Hãy gọi đó là tiền”
 Tiền đó trở thành điều xấu khi người ta đánh cắp nó “IOUs”. Chính phủ in thêm nhiều khoản IOUs. Người ta đàm phàn cho chính IOU của họ. Nhưng tiền có thể trở thành IOU đáng tin cậy từ xã hội thứ mà bạn sở hữu và đã thức hiện trong quá khứ.
 Chúng ta có thể chuyển đổi IOUs xung quanh, và dó vậy tiền chính là cách chúng ta chuyển đổi sự giàu có
-Status is your rank in the social hierarchy
+**Status is your rank in the social hierarchy**
 Địa vị là vị trí của bạn trong cấp bậc xã hội.
 Có 2 loại trò chơi cơ bản trong cuộc sống. Một là trò chơi về tiền bạc. Bởi vì tiền sẽ không giải quyết được hết tất cả các vấn đề của bạn, nhưng nó có thể giải quyết các vấn đề liên quan tới tiền bạc. Tôi nghĩ nhiều người biết điều này và khi họ nhận ra họ sẽ muốn kiếm tiền.
 Nhưng cũng nhiều người không tin rằng họ có thể làm được. Họ không muốn tạo ra sự giàu có. Họ tỏ ra đức hạnh bằng cách tấn công những người doanh nhân bằng việc nói rằng “Well, nhiều tiền thường xấu xa. Tôi không muốn làm điều đó”
@@ -44,7 +44,7 @@ Seek Wealth, Not Money or Status
 This is my first interview on How to Get Rich, based on my tweetstorm on the same topic. The podcast is available on…
 nav.al
 
-2. Make Abundance for the World — Làm cho thế giới trở nên phong phú
+# 2. Make Abundance for the World — Làm cho thế giới trở nên phong phú
 Ethical wealth creation makes abundance for the world
 Tạo ra sự giàu có về đạo đức làm thế giới trở nên phong phú.
 Naval: Tôi nghĩ rằng đã có khái niệm kiếm tiền là xấu xa, phải không?. “Tiền là nguồn gốc của tội lỗi”. Mọi người nghĩ rằng giới ngân hàng đánh cắp tiền của chúng ta.
@@ -69,7 +69,7 @@ Make Abundance for the World
 I think there is this notion that making money is evil, right? It's rooted all the way back down to "money is the root…
 nav.al
 
-3. Free Markets Are Intrinsic to Humans — Thị trường tự do là bản chất của con người
+# 3. Free Markets Are Intrinsic to Humans — Thị trường tự do là bản chất của con người
 Free markets are intrinsic to the human species
 Naval: Chủ nghĩa tư bản nói chung [có nghĩa là thị trường tự do] là bản chất của loài người. Chủ nghĩa tư bản không phải thứ chúng ta phát minh ra, thậm chí không phải thứ chúng ta khám phá. Nó ở trong chúng ta trong mọi trao đổi mà chúng ta có.
 Khi bạn và tôi trao đổi thông tin, tôi muốn một số thông tin từ bạn. Tôi cung cấp cho bạn thông tin. Bạn cho tôi thông tin. Nếu chúng ta không trao đổi thông tin tốt, bạn sẽ nói chuyện với người khác. Vì vậy, khái niệm trao đổi và theo dõi các khoản tín dụng, ghi nợ, điều này được xây dựng trong chúng ta như những động vật trong xã hội linh hoạt.
@@ -99,8 +99,8 @@ Free Markets Are Intrinsic to Humans
 Overall capitalism [meaning free markets] is intrinsic to the human species. Capitalism is not something we invented…
 nav.al
 
-4. Making Money Isn’t About Luck — Kiếm tiền không phải là may mắn.
-Making money isn’t about luck
+# 4. Making Money Isn’t About Luck — Kiếm tiền không phải là may mắn.
+**Making money isn’t about luck**
 Naval: Rõ ràng, chúng tamuốn giàu có, và chúng ta muốn đến đích đó trong cuộc đời này mà không phải dựa vào may mắn.
 Rất nhiều người nghĩ kiếm tiền là về may mắn. Nó không… Nó là trở thành người luôn biết cách kiếm ra tiền.
 Tôi muốn nghĩ rằng nếu tôi mất hết tiền và nếu bạn thả tôi trên một con đường ngẫu nhiên ở bất kỳ quốc gia nói tiếng Anh nào, trong vòng 5, 10 năm sau, tôi sẽ trở nên giàu có trở lại. Bởi vì nó là một bộ kỹ năng mà tôi đã phát triển và tôi nghĩ ai cũng có thể phát triển.
