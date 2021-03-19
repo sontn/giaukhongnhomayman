@@ -1,4 +1,4 @@
-33. Eventually You Will Get What You Deserve — Cuối cùng thì bạn cũng sẽ có được thứ bạn xứng đáng.
+# 33. Eventually You Will Get What You Deserve — Cuối cùng thì bạn cũng sẽ có được thứ bạn xứng đáng.
 Nivi: Chúng ta đang nói về làm việc với tầm nhìn dài hạn. Và chủ đề tiếp theo là: “Áp dụng kiến thức đặc biệt, cùng với đòn bẩy, thì cuối cùng bạn sẽ xứng đáng có được thứ bạn muốn”
 Tôi sẽ bổ sung thêm: Phán đoán tốt, có trách nhiệm, và áp dụng kỹ năng đọc.
 Naval: Nói cách khác “Nó phải cần có thời gian”. Khi bạn đã có tất cả các mảnh ghép, thì nó vẫn cần phải có một khoảng thời gian không xác định bạn phải đặt vào đó. Nếu bạn ngồi đó tính thời gian, bạn sẽ thiếu kiên nhẫn trước khi mọi thứ đến.
@@ -23,7 +23,7 @@ Eventually You Will Get What You Deserve
 We're talking about working for the long-term. The next tweet on that topic: "Apply specific knowledge, with leverage…
 nav.al
 
-34. Reject Most Advice — Hầu hết những lời khuyên là vô ích.
+# 34. Reject Most Advice — Hầu hết những lời khuyên là vô ích.
 Nivil: Một trong những tw tiếp theo là: “Tránh xa những người trở nên giàu có cách nhanh chóng. Họ chỉ muốn đưa cho bạn tấm vé số của họ”
 Naval: Điều này thường đúng với hầu hết những lời khuyên. Hãy quay lại với Scott Adams — systems not goals “Hệ thống hay mục tiêu”. Nếu bạn hỏi những người thành công những điều họ làm, họ sẽ nói chính xác những gì họ đã thực hiện, những những điều đó không áp dụng cho bạn. Họ chỉ đang đưa cho bạn tấm vé số của họ.
 Nó như là thứ gì đó lấp lánh. Có những điều cần phải học, nhưng bạn không thể lấy chính xác tình huống và bản đồ chỉ dẫn đó cho chính bạn. Những nhà sáng lập tốt nhất mà tôi biết họ đều đọc và nghe tự mọi người. Nhưng họ làm lơ hầu hết và tự tạo mindset riêng cho chính họ.
@@ -35,7 +35,7 @@ Reject Most Advice
 One of the tweets from the cutting-room floor was: "Avoid people who got rich quickly. They're just giving you their…
 nav.al
 
-35 .There Are No Get Rich Quick Schemes — Không có mô hình làm giàu nhanh chóng.
+# 35 .There Are No Get Rich Quick Schemes — Không có mô hình làm giàu nhanh chóng.
 Get rich quick schemes are just someone else getting rich off you.
 Làm giàu nhanh chóng là hình thức để người khác kiếm tiền từ chính bạn.
 There are no get rich quick schemes
@@ -67,7 +67,7 @@ There Are No Get Rich Quick Schemes
 We skipped one tweet because I wanted to cover all of the tweets on the topic of the long-term. The tweet we skipped…
 nav.al
 
-36. A Calm Mind, a Fit Body, a House Full of Love — Tâm trí bình thản, Cơ thế khỏe manh, và ngôi nhà hạnh phúc.
+# 36. A Calm Mind, a Fit Body, a House Full of Love — Tâm trí bình thản, Cơ thế khỏe manh, và ngôi nhà hạnh phúc.
 Nivi: Tw cuối trong chủ đề về làm việc cho dài hạn là: “Cuối cùng khi bạn giàu có, bạn sẽ nhận ra đó không phải là thứ bạn thực sự tìm kiếm từ bạn đầu. Nhưng là cho một ngày nào đó”
 Naval: Đây là một chủ đề kéo dài nhiều giờ đồng hồ. Tôi nghĩ đó là một cách thực sự thông minh để kết thúc toàn bộ sự việc. Nó trả lời cho những người nói, “Làm giàu có ích lợi gì?” Có rất nhiều người thích tỏ ra đức hạnh chống lại ý tưởng tạo ra của cải hoặc kiếm tiền.
 Nó cũng đúng. Vâng, tiền sẽ giải quyết mọi vấn đề liên quan đến tiền bạc của bạn. Nhưng nó không đưa bạn đến mọi nơi.
@@ -92,7 +92,7 @@ A Calm Mind, a Fit Body, a House Full of Love
 The last tweet on the topic of working for the long-term is: "When you're finally wealthy, you'll realize it wasn't…
 nav.al
 
-37. Being Ethical Is Long-Term Greedy — Đạo đức là “tham” về dài hạn.
+# 37. Being Ethical Is Long-Term Greedy — Đạo đức là “tham” về dài hạn.
 Ethics isn’t something you study; it’s something you do
 Đạo đức không phải là thứ bạn học, mà nó là thứ bạn làm.
 Nivi: Trong tweetstorm “How to Get Rich”, bạn đã liệt kê những lời khuyên mọi người nên học, như lập trình, bán hàng, đọc, viết và toán học. Một trong những mục cuối cùng được đặt lên trên là đạo đức, đó là điều bạn đề nghị mọi người suy nghĩ.
