@@ -1,4 +1,4 @@
-17. The Foundations Are Math and Logic — Nền tảng là toán học và Logic
+# 17. The Foundations Are Math and Logic — Nền tảng là toán học và Logic
 If you understand mathematics and logic, you have the basis for understanding everything else.
 Nếu bạn hiểu toán học và logic, bạn sẽ có nền tảng cơ bản để hiểu mọi thứ.
 The ultimate foundations are math and logic
@@ -23,7 +23,7 @@ The Foundations Are Math and Logic
 Foundational things are principles, they're algorithms, they're deep seated logical understanding where you can defend…
 nav.al
 
-18. There’s No Actual Skill Called “Business” — Không có kỹ năng gì được gọi là “Kinh doanh”
+# 18. There’s No Actual Skill Called “Business” — Không có kỹ năng gì được gọi là “Kinh doanh”
 There’s no actual skill called business. Avoid business schools and magazines.
 Không có kỹ năng thực sự được gọi là kinh doanh. Tránh xa các trường lớp và các tạp chí kinh doanh.
 There’s no actual skill called “business”
@@ -64,7 +64,7 @@ There's No Actual Skill Called "Business"
 In that sense, business to me is bottom of the barrel. There's no actual skill called business, it's too generic. It's…
 nav.al
 
-19. Embrace Accountability to Get Leverage — Gánh lấy trách nhiệm để có được đòn bẩy.
+# 19. Embrace Accountability to Get Leverage — Gánh lấy trách nhiệm để có được đòn bẩy.
 Embrace accountability. Society will reward you with leverage.
 Gánh lấy trách nhiệm. Xã hội sẽ trả thưởng cho bạn đòn bẩy.
 You have to have accountability to get leverage
@@ -98,7 +98,7 @@ Embrace Accountability to Get Leverage
 Why don't we jump into accountability, which I thought was pretty interesting and I think you have your own unique take…
 nav.al
 
-20. Take Accountability to Earn Equity — Gánh lấy trách nhiệm để nhận lấy tài sản
+# 20. Take Accountability to Earn Equity — Gánh lấy trách nhiệm để nhận lấy tài sản
 If you have high accountability, you’re less replaceable and you can get a piece of the business.
 Nếu bạn có trách nhiệm cao, bạn sẽ khó bị thay thế và bạn sẽ có được một phần của doanh nghiệp.
 Accountability is how you’re going to get equity
