@@ -1,4 +1,4 @@
-9. The Internet Has Massively Broadened Career Possibilities — Internet giúp mở rộng sự nghiệp với mức độ lớn.
+# 9. The Internet Has Massively Broadened Career Possibilities — Internet giúp mở rộng sự nghiệp với mức độ lớn.
 The Internet has massively broadened the possible space of careers
 Nivi: Hãy xem tweet tiếp theo này, điều mà tôi nghĩ là cực kỳ thú vị, về loại công việc hoặc nghề nghiệp mà bạn có thể có. Bạn nói: “Internet đã mở rộng ồ ạt không gian sự nghiệp, nhưng hầu hết mọi người chưa nhận ra điều này.”
 Naval: Tính chất cơ bản của internet nhiều hơn bất kỳ thứ gì khác, đó là khả năng kết nối mọi người với nhau trên hành tinh. Bạn có thể tiếp cận tất cả mọi người tại bất kỳ đâu.
@@ -26,7 +26,7 @@ The Internet Has Massively Broadened Career Possibilities
 Let's look at this next tweet, which I thought was cryptic, and also super interesting, about the kind of job or career…
 nav.al
 
-10. Play Long-term Games With Long-term People — Chơi với những người có tầm nhìn dài hạn.
+# 10. Play Long-term Games With Long-term People — Chơi với những người có tầm nhìn dài hạn.
 Play long-term games with long-term people
 Nivi: Hãy nói một chút về những ngành nghề bạn nên nghĩ làm việc. Có những loại công việc nào? Và bạn có thể muốn làm việc với ai? Vì vậy, bạn đã nó: “một người nên chọn một ngành công nghiệp nơi bạn có thể chơi các trò chơi dài hạn với những người có tầm nhìn xa”. Tại sao vậy?
 Naval: Vâng, đây là một cái nhìn sâu sắc thứ làm cho Thung lũng Silicon đang hoạt động, và những gì làm cho xã hội có lòng tin cao hoạt động. Về cơ bản, tất cả những lợi ích trong cuộc sống đến từ lợi ích kép. Cho dù đó là mối quan hệ, hoặc kiếm tiền, hoặc học tập.
@@ -63,7 +63,7 @@ Play Long-term Games With Long-term People
 Talk a little bit about what industries you should think about working in. What kind of job you should have? And who…
 nav.al
 
-11. Pick Partners With Intelligence, Energy and Integrity — Chọn đối tác khôn ngoan, nhiều năng lượng và Chính trực.
+# 11. Pick Partners With Intelligence, Energy and Integrity — Chọn đối tác khôn ngoan, nhiều năng lượng và Chính trực.
 Pick business partners with high intelligence, energy and integrity
 Naval: Về mặt chọn người làm việc cùng, chọn những người có trí thông minh cao, năng lượng cao và tính chính trực cao, tôi thấy rằng đó là 3 điều mà bạn không thể thỏa hiệp.
 Bạn cần một người thông minh, hoặc họ sẽ đi sai hướng. Và bạn sẽ không đến được đúng nơi cần đến. Bạn cần một người có năng lượng cao vì thế giới đầy những người thông minh nhưng lười biếng.
@@ -94,7 +94,7 @@ Pick Partners With Intelligence, Energy and Integrity
 In terms of picking people to work with, pick ones that have high intelligence, high energy, and high integrity, I find…
 nav.al
 
-12. Partner With Rational Optimists — Hợp tác với những người lạc quan hợp lý
+# 12. Partner With Rational Optimists — Hợp tác với những người lạc quan hợp lý
 Don’t partner with pessimists
 Không chơi với người vi quan.
 Nivi: Hãy nói về tweet “Đừng hợp tác với người hoài nghi và bi quan”
