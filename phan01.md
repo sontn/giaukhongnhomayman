@@ -138,3 +138,6 @@ Giống như cách mà Nenad, illacertus, anh ấy xây dựng thương hiệu c
 Chúng ta nói về việc trở nên giàu có để bạn có thể nghỉ hưu, vì vậy bạn có quyền tự do. Không nghỉ hưu theo nghĩa là bạn không làm gì cả. Nhưng theo nghĩa là bạn không phải đến bất cứ nơi nào bạn không muốn, bạn không phải làm bất cứ điều gì bạn không muốn, bạn có thể thức dậy bất kỳ lúc nào bạn muốn, bạn có thể ngủ khi bạn muốn, bạn không có ông chủ. Đó là tự do.
 Chúng ta nói về sự giàu có để có được tự do. Đặc biệt là nhờ có Internet những ngày này, cơ hội là rất lớn. Thật ra, tôi có rất nhiều cách để kiếm tiền, nhưng tôi không có đủ thời gian. Tôi có cơ hội tuôn ra từ đầu tôi và điều tôi không ngừng nghỉ là thời gian.
 Có rất nhiều cách để tạo ra sự giàu có, tạo ra sản phẩm, tạo ra doanh nghiệp, tạo cơ hội và như một sản phẩm phụ, được xã hội trả tiền mà tôi không thể xử lý tất cả.
+
+
+[Phần 2 tiếp theo](https://github.com/sontn/giaukhongnhomayman/blob/main/phan02.md)
