@@ -148,3 +148,5 @@ Phải mất một thời gian dài cho thị trường để áp dụng sản p
 Thiếu kiên nhẫn với hành động và kiên nhẫn với kết quả.
 Nếu tôi phát hiện ra một vấn đề trong một trong những doanh nghiệp của mình, tôi sẽ không ngủ cho đến khi ít nhất là có sự thay đổi. Nếu tôi là thành viên hội đồng quản trị của một công ty, tôi sẽ gọi cho CEO. Nếu tôi điều hành công ty, tôi sẽ gọi các báo cáo của mình. Nếu tôi có trách nhiệm, tôi sẽ nhận được nó, ngay lúc đó và ở đó, và giải quyết nó.
 Nếu tôi không giải quyết vấn đề ngay lúc nó xảy ra — hoặc nếu tôi không hướng tới việc giải quyết nó — tôi sẽ không có nghỉ ngơi. Tôi sẽ không có hạnh phúc cho đến khi vấn đề được giải quyết. Vì vậy, tôi giải quyết nó càng nhanh càng tốt. Tôi sẽ không ngủ cho đến khi nó được giải quyết— có lẽ đó là một đặc điểm cá nhân. Nhưng nó là tốt trong kinh doanh.
+
+[Phần 8 tiếp theo](https://github.com/sontn/giaukhongnhomayman/blob/main/phan08.md)
