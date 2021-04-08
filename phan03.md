@@ -125,3 +125,5 @@ BOCTAOE — “but of course there are obvious exceptions”
 Naval: . Scott Adams đã đưa ra một cụm từ, một từ viết tắt, đó là “nhưng tất nhiên có những ngoại lệ rõ ràng”- BOCTAOE. Và anh ấy đã sử dụng từ viết tắt đó vào cuối bài viết của mình một thời gian.
 Thung lũng Silicon đã học được rằng ưu điểm là rất lớn đến nỗi bạn không bao giờ nên coi thường đứa trẻ mà mặc áo hoodie và uống cà phê bằng giày. Và trông giống như một kiểu không được bình thường bởi vì bạn không biết rằng anh ta có thể sẽ trở thành Mark Zuckerberg tiếp theo hay Reid Hoffman tiếp theo.
 Vì vậy, bạn đã phải đối xử tôn trọng với mọi người. Bạn đã phải tìm kiếm mọi khả năng và cơ hội bởi vì lợi thế là không giới hạn, và nhược điểm là rất hạn chế trong thế giới hiện đại, đặc biệt là với các tài sản và công cụ tài chính..
+
+[Phần 4 tiếp theo](https://github.com/sontn/giaukhongnhomayman/blob/main/phan04.md)
