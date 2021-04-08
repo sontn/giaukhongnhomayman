@@ -94,3 +94,6 @@ Nivi: Cách mà tôi muốn nói công việc của doanh nhân là cố gắng 
 Naval: Nó bắt đầu như cao cấp. Đầu tiên, nó bắt đầu như một hành động sáng tạo, bạn tạo ra nó chỉ vì bạn muốn nó. Bạn muốn nó, và bạn biết cách xây dựng nó, và bạn cần nó. Và vì vậy bạn xây dựng nó cho chính mình. Sau đó, bạn tìm ra cách để người khác có được. Và sau đó những người giàu có cũng muốn nó.
 Ví dụ như, những người giàu có họ có tài xế riêng, và sau đó họ có những chiếc xe sang màu đen trong thị trấn. Và rồi Uber xuất hiện, cho tất cả mọi người, kể cả tài xế riêng đều có sẵn cho mọi người. Và bây giờ bạn thậm chí có thể thấy các nhóm Uber đang thay thế xe buýt đưa đón bởi vì nó thuận tiện hơn. Và sau đó thậm chí bạn còn có được xe tay ga. Vì vậy, bạn đã đúng. Nó nói về việc phân phối những gì người giàu thường có cho mọi người.
 Nhưng công việc của doanh nhân bắt đầu ngay cả trước đó, đó là sự sáng tạo. Kinh doanh về cơ bản là một hành động tạo ra một cái gì đó mới từ đầu. Dự đoán rằng xã hội sẽ muốn nó, và sau đó tìm ra cách mở rộng quy mô của nó, và đưa nó đến với mọi người theo cách có lợi, theo cách tự duy trì.
+
+
+[Phần 3 tiếp theo](https://github.com/sontn/giaukhongnhomayman/blob/main/phan03.md)
