@@ -148,3 +148,5 @@ Chi phí cận biên bằng không có thể xoay vòng vào các doanh nghiệp
 Hiệu ứng mạng là một khái niệm rất mạnh mẽ và khi bạn chọn một mô hình kinh doanh, thì đó là một ý tưởng thực sự tốt để chọn một mô hình mà bạn có thể hưởng lợi từ hiệu ứng mạng, chi phí biên thấp và quy mô kinh tế; và những xu hướng đi cùng nhau.
 Bất cứ điều gì có chi phí sản xuất cận biên bằng 0 rõ ràng đều có quy mô kinh tế và những thứ có chi phí tái sản xuất bằng 0 thường có xu hướng có hiệu ứng mạng, bởi vì nó không làm bạn tốn thêm bất cứ điều gì để dập tắt điều đó. Vì vậy, sau đó bạn chỉ có thể tạo các móc nhỏ để người dùng thêm giá trị cho nhau.
 Bạn nên luôn luôn suy nghĩ về cách người dùng, khách hàng của bạn, có thể gia tăng giá trị cho nhau vì đó là hình thức đòn bẩy cuối cùng. Bạn có thể ở bãi biển ở Bahamas hoặc bạn ngủ vào ban đêm và khách hàng của bạn vẫn đang gia tăng giá trị cho nhau, và cho bạn.
+
+[Phần 7 tiếp theo](https://github.com/sontn/giaukhongnhomayman/blob/main/phan07.md)
