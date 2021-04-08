@@ -90,3 +90,5 @@ Trước khi chúng ta có thể đến đó, chúng ta đã bị cuốn vào tr
 Toàn bộ không gian đã đi về số không vì Amazon đã giành phần thắng về bán lẻ thương mại điện tử hoàn toàn. Không cần so sánh giá cả. Mọi người chỉ cần đến Amazon.
 Chúng ta đã nhận được giải thưởng booby vì chúng ta đã bị cuốn vào cuộc cạnh tranh với một loạt các đồng nghiệp. Chúng ta nên nhìn vào những gì người tiêu dùng thực sự muốn và xác thực với chính mình.
 Nếu chúng ta xác thực với chính mình, chúng ta sẽ làm tốt hơn.
+
+[Phần 9 tiếp theo](https://github.com/sontn/giaukhongnhomayman/blob/main/phan09.md)
