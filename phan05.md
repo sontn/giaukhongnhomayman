@@ -128,3 +128,5 @@ Naval: Vâng. Cuốn “Skin in the game — Da thịt trong cuộc chơi” là
 Trách nhiệm, da thịt trong cuộc chơi, những khái niệm này đi đôi với nhau rất chặt chẽ. Tôi nghĩ về trách nhiệm là uy tín trong cuộc chơi. Nó đưa danh tiếng cá nhân của bạn lên hàng đầu, như da thịt trong cuộc chơi.
 Trách nhiệm là một khái niệm đơn giản. Phần duy nhất của trách nhiệm có thể hơi phản cảm là chúng ta hiện nay đang bị tẩy não xã hội để không chịu trách nhiệm với hành động của mình, với cách mà bạn không nhìn thấy được.
 Tôi nghĩ rằng có nhiều cách để đảm nhận trách nhiệm, trong đó mọi thành viên trong nhóm có thể đảm nhận trách nhiệm cho chính phần của họ. Đó là cách bạn có được một nhóm hoạt động tốt trong khi vẫn đặt các khoản tín dụng và tổn thất vào các cột chính xác.
+
+[Phần 6 tiếp theo](https://github.com/sontn/giaukhongnhomayman/blob/main/phan06.md)
